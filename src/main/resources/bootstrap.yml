@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      name: central-discovery-server
+      uri:
+      - http://localhost:8081
