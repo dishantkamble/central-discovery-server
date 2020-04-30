@@ -12,5 +12,4 @@ public class CentralDiscoveryServerApplicationTests {
     @Test
     public void contextLoads() {
     }
-
 }
